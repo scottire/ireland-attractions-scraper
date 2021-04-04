@@ -1,0 +1,1804 @@
+{
+  "count": "6844",
+  "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
+  "results": [
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Museum",
+        "ShoppingCenter"
+      ],
+      "name": "Caves of Keash Visitor Centre and Gift Shop",
+      "url": "http://keash.ie/caves-of-keash",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.44363752495224,
+        "latitude": 54.0441950066453
+      },
+      "telephone": "+353719183408",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballymote",
+        "addressRegion": "Sligo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Attraction",
+        "Museums and Attraction",
+        "Tour",
+        "Food Shops",
+        "Shopping"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "Place"
+      ],
+      "name": "Inishturk",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.1163442717911,
+        "latitude": 53.7024417252861
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Inishturk Island",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Swimming",
+        "Swimming Pools and Water Park",
+        "Venue",
+        "Walking",
+        "Discovery Point",
+        "Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "Museum",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "CafeOrCoffeeShop"
+      ],
+      "name": "Strokestown Park House and Garden",
+      "url": "https://www.strokestownpark.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.0978481,
+        "latitude": 53.7772067
+      },
+      "telephone": "+353719633013",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Strokestown",
+        "addressRegion": "Roscommon",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Walking",
+        "Attraction",
+        "Museums and Attraction",
+        "Gardens",
+        "Garden",
+        "Historic Houses and Castle",
+        "Cafe",
+        "Food and Drink",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "LodgingBusiness"
+      ],
+      "name": "Harristown House In-Family Accommodation",
+      "url": "http://harristownhouse.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.69135237534852,
+        "latitude": 53.1317241582874
+      },
+      "telephone": "+353(0)877414971",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kilcullen",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Welcome Standard",
+        "Ireland's Ancient East",
+        "Accommodation",
+        "Activity Holiday Accommodation"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation"
+      ],
+      "name": "Dunmore East - Coastal Walk",
+      "url": "http://www.waterfordinyourpocket.com/things-to-do/outdoors/walks-and-hikes/dunmore-cliff-walk/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.9935432,
+        "latitude": 52.1450193
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dunmore East",
+        "addressRegion": "Waterford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Walking"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Clare Island Adventures",
+      "url": "http://www.clareislandadventures.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.9881419536732,
+        "latitude": 53.7924554847732
+      },
+      "telephone": "+353874108706",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clare Island",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Transport",
+        "Climbing",
+        "Activity Operator",
+        "Venue",
+        "Sports Venues",
+        "Coach",
+        "Road"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Donegal Town Walking Tours",
+      "url": "https://www.facebook.com/donegaltownwalkingtours",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.1115482,
+        "latitude": 54.6521961
+      },
+      "telephone": "+353863931415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Donegal Town",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Walking",
+        "Activity Operator",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Donegal Motor Club",
+      "url": "http://donegalmotorclub.com/home",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.68562,
+        "latitude": 54.9595
+      },
+      "telephone": "+353749126966",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Letterkenny",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Barnavave Loop",
+      "url": "https://www.visitlouth.ie/explore-and-do/do/tours-and-trails-louth/cooley-and-slieve-foye-walks-and-hikes.html",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.205,
+        "latitude": 54.0269444
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carlingford",
+        "addressRegion": "Louth",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Walking",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "TravelAgency",
+        "Restaurant"
+      ],
+      "name": "Dingle Cookery School",
+      "url": "https://www.facebook.com/pages/Dingle-Cookery-School/550799285065901",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.2810225,
+        "latitude": 52.1412601
+      },
+      "telephone": "+353868723521",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dingle",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Learning",
+        "Cooking",
+        "Cookery",
+        "Activity Operator",
+        "Local Produce"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Waterford Camino Tours",
+      "url": "http://waterfordcamino.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.16744265082855,
+        "latitude": 52.1624942092736
+      },
+      "telephone": "+353879947921",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tramore",
+        "addressRegion": "Waterford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Ireland's Ancient East",
+        "Activity",
+        "Learning",
+        "Walking",
+        "Activity Operator",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings",
+        "ShoppingCenter"
+      ],
+      "name": "Holycross Abbey",
+      "url": "http://www.holycrossabbey.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.8681021,
+        "latitude": 52.6395472
+      },
+      "telephone": "+35350443124",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Holycross",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Ireland's Ancient East",
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery",
+        "Tour",
+        "Food Shops",
+        "Shopping"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "ShoppingCenter",
+        "Store",
+        "Museum",
+        "CafeOrCoffeeShop"
+      ],
+      "name": "The House of Waterford Crystal",
+      "url": "https://www.waterfordvisitorcentre.com/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.1067612,
+        "latitude": 52.2592684
+      },
+      "telephone": "+35351317000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Waterford City",
+        "addressRegion": "Waterford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Learning",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Craft",
+        "Attraction",
+        "Museums and Attraction",
+        "Cafe",
+        "Food and Drink",
+        "Tour",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "Landform"
+      ],
+      "name": "Glenbarrow - Old Mill Loop",
+      "url": "https://www.coillte.ie/site/glenbarrow/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.52564375817589,
+        "latitude": 53.1497079212292
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clonaslee",
+        "addressRegion": "Laois",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Walking",
+        "Natural Landscape",
+        "Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "Landform"
+      ],
+      "name": "Blackwater Way - Avondhu",
+      "url": "https://www.sportireland.ie/outdoors/walking/trails/blackwater-way-avondhu",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.9951028,
+        "latitude": 52.2770794
+      },
+      "telephone": "+35318608800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clogheen",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Walking",
+        "Natural Landscape",
+        "Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "Kai Restaurant",
+      "url": "http://kaicaferestaurant.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.061189,
+        "latitude": 53.269572
+      },
+      "telephone": "+353051526003",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Galway City",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Seafood",
+        "Vegetarian"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "Landform"
+      ],
+      "name": "Sheep's Head Way",
+      "url": "https://www.alltrails.com/trail/ireland/county-cork--2/sheeps-head-trail-main-loop",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.60033614586791,
+        "latitude": 51.626010736538
+      },
+      "telephone": "+353(0)2767136",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kilcrohane",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Walking",
+        "Natural Landscape",
+        "Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation"
+      ],
+      "name": "Croagh Patrick Heritage Trail",
+      "url": "http://www.croaghpatrickheritagetrail.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.13312536081958,
+        "latitude": 53.8089369717232
+      },
+      "telephone": "+353(0)949360891",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballintubber",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Walking"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "TouristAttraction",
+        "Brewery",
+        "BarOrPub"
+      ],
+      "name": "Tig Bhric & West Kerry Brewery",
+      "url": "https://westkerrybrewery.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.3863964,
+        "latitude": 52.1704021
+      },
+      "telephone": "+353876822834",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballyferriter",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Attraction",
+        "Museums and Attraction",
+        "Pubs and Bar",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Store",
+        "ShoppingCenter",
+        "TouristAttraction",
+        "ArtGallery"
+      ],
+      "name": "Jerpoint Glass Studio",
+      "url": "http://www.jerpointglass.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.1967314,
+        "latitude": 52.5185184
+      },
+      "telephone": "+353567724350",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thomastown",
+        "addressRegion": "Kilkenny",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Craft",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Art Gallery",
+        "Attraction",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant",
+        "BarOrPub"
+      ],
+      "name": "The Market Bar & Restaurant ",
+      "url": "https://www.facebook.com/The-Market-Bar-Longford-374957936209338/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.7993671,
+        "latitude": 53.7255882
+      },
+      "telephone": "+353433341806",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Longford Town",
+        "addressRegion": "Longford",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Local Produce",
+        "Pubs and Bar",
+        "Seafood",
+        "Vegetarian"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Store",
+        "TouristAttraction",
+        "ArtGallery",
+        "ShoppingCenter"
+      ],
+      "name": "Giles Norman Photography",
+      "url": "http://www.gilesnorman.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.522055,
+        "latitude": 51.70445
+      },
+      "telephone": "+353214774373",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kinsale",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Wild Atlantic Way",
+        "Activity",
+        "Craft",
+        "Shopping",
+        "Photography",
+        "Learning",
+        "Art Gallery",
+        "Attraction",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Store",
+        "TouristAttraction",
+        "ArtGallery",
+        "CafeOrCoffeeShop",
+        "ShoppingCenter"
+      ],
+      "name": "Hugh Lane Gallery",
+      "url": "http://www.hughlane.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.26471126256558,
+        "latitude": 53.354215
+      },
+      "telephone": "+353(0)12225550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Visit Dublin",
+        "Activity",
+        "Craft",
+        "Shopping",
+        "Learning",
+        "Photography",
+        "Art Gallery",
+        "Attraction",
+        "Venue",
+        "Music",
+        "Cafe",
+        "Food and Drink",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Fiddlers Retreat",
+      "url": "http://www.fiddlersretreat.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.82409798264878,
+        "latitude": 52.7568935173768
+      },
+      "telephone": "+353868099661",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Templemore",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Learning",
+        "Activity Operator",
+        "Traditionally Irish"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "Landform"
+      ],
+      "name": "Mulranny - Lookout Hill Loop",
+      "url": "http://www.irishtrails.ie/Trail/Mulranny---Lookout-Hill-loop/592/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.79020239645016,
+        "latitude": 53.9040112024891
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mulranny",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Walking",
+        "Natural Landscape",
+        "Attraction"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency",
+        "ShoppingCenter"
+      ],
+      "name": "The Paddocks Riding Centre",
+      "url": "http://www.paddocks.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.225428,
+        "latitude": 53.250451
+      },
+      "telephone": "+353872237981",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sandyford",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Visit Dublin",
+        "Activity",
+        "Horse Riding",
+        "Equestrian",
+        "Activity Operator",
+        "Shopping",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "The Hurling Experience Tour",
+      "url": "http://thehurlingexperience.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.28670430071088,
+        "latitude": 53.3418836296386
+      },
+      "telephone": "+353852528026",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Visit Dublin",
+        "Activity",
+        "Activity Operator",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Store",
+        "ShoppingCenter"
+      ],
+      "name": "Spiller's Lane Craft Shop & Art Gallery",
+      "url": "https://www.facebook.com/SpillersLaneGallery/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.8912449,
+        "latitude": 51.6228351
+      },
+      "telephone": "+353238834815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clonakilty",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Craft",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "Sculpture"
+      ],
+      "name": "Molly Malone",
+      "url": "http://www.talkingstatuesdublin.ie/statues/molly-malone/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.26094995939002,
+        "latitude": 53.3437399157111
+      },
+      "telephone": "+353(0)16057700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Attraction",
+        "Public Sculpture",
+        "Talking Statue"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "ShoppingCenter"
+      ],
+      "name": "Kinvara Smoked Salmon Limited",
+      "url": "https://kinvarasmokedsalmon.com/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.934515,
+        "latitude": 53.138495
+      },
+      "telephone": "+353(0)91637489",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kinvara",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "Sculpture"
+      ],
+      "name": "Oscar Wilde",
+      "url": "http://www.talkingstatuesdublin.ie/statues/oscar/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.25058375785829,
+        "latitude": 53.3408382372672
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Attraction",
+        "Public Sculpture",
+        "Talking Statue",
+        "Literary Ireland"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "Sculpture"
+      ],
+      "name": "James Connolly",
+      "url": "http://www.talkingstatuesdublin.ie/statues/connolly/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.25464562845002,
+        "latitude": 53.3487452194461
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Attraction",
+        "Public Sculpture",
+        "Talking Statue"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Busy Bees - Childrens Activity Centre",
+      "url": "https://busybeesgalway.com/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.930215,
+        "latitude": 53.277651
+      },
+      "telephone": "+353(0)91788516",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Oranmore",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation"
+      ],
+      "name": "The Lakes Of Killarney",
+      "url": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.508799,
+        "latitude": 52.058212
+      },
+      "telephone": "+353(0)646631633",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killarney",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Fishing",
+        "Angling"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TouristAttraction",
+        "Park"
+      ],
+      "name": "Torc Waterfall and Muckross Lake Loop",
+      "url": "http://www.npws.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.5042922,
+        "latitude": 52.0180827
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killarney",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Walking",
+        "National Park",
+        "Attraction",
+        "National and Forest Park"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation"
+      ],
+      "name": "Annaharvey Farm Equestrian Centre",
+      "url": "http://www.annaharveyfarm.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.39603,
+        "latitude": 53.252068
+      },
+      "telephone": "+353579343544",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tullamore",
+        "addressRegion": "Offaly",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Horse Riding",
+        "Equestrian",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub",
+        "Restaurant",
+        "CafeOrCoffeeShop"
+      ],
+      "name": "Bleecker Street Café Bar",
+      "url": "https://bleecker-street-cafe-bar.business.site",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2639138,
+        "latitude": 53.3571801
+      },
+      "telephone": "+35318044459",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Visit Dublin",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Cafe",
+        "Local Produce",
+        "Pubs and Bar",
+        "Vegan",
+        "Vegetarian"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency",
+        "CafeOrCoffeeShop",
+        "BarOrPub"
+      ],
+      "name": "Westport Cruises",
+      "url": "http://www.westportcruises.com/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.553396,
+        "latitude": 53.80188
+      },
+      "telephone": "+353876066146",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Westport",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Wild Atlantic Way",
+        "Activity",
+        "Cruising",
+        "Activity Operator",
+        "Cafe",
+        "Food and Drink",
+        "Pubs and Bar",
+        "Boat",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Cloyne Round Tower",
+      "url": "http://cloyne.ie/about/round-tower",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.1202974,
+        "latitude": 51.8620116
+      },
+      "telephone": "+353214652561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cloyne",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Suir Valley Adventures",
+      "url": "https://www.facebook.com/Suir-Valley-Adventures-1751254174888592/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.8842292,
+        "latitude": 52.3092483
+      },
+      "telephone": "+353831772626",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ardfinnan",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Kayaking",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation"
+      ],
+      "name": "The East Munster Way",
+      "url": "https://www.sportireland.ie/outdoors/walking/trails/east-munster-way",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.40470492454733,
+        "latitude": 52.3471054682276
+      },
+      "telephone": "+353761065000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carrick-on-Suir",
+        "addressRegion": "Tipperary",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Ancient East",
+        "Activity",
+        "Walking"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Calliaghstown Equestrian Centre",
+      "url": "https://www.calliaghstownequestriancentre.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.5061647,
+        "latitude": 53.2496301
+      },
+      "telephone": "+35314588322",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rathcoole",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Horse Riding",
+        "Equestrian",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "BarOrPub"
+      ],
+      "name": "Considine’s Bar",
+      "url": "https://www.facebook.com/considines",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.4215617,
+        "latitude": 52.9528042
+      },
+      "telephone": "+353877986513",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Liscannor",
+        "addressRegion": "Clare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "GolfCourse",
+        "FoodEstablishment",
+        "Restaurant",
+        "ShoppingCenter"
+      ],
+      "name": "Craddockstown Golf Club",
+      "url": "http://www.craddockstown.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.6379265,
+        "latitude": 53.2045943
+      },
+      "telephone": "+35345897610",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Naas",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Golf Course",
+        "Ireland's Ancient East",
+        "Activity",
+        "Golf",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "TravelAgency",
+        "BarOrPub",
+        "Restaurant",
+        "ShoppingCenter"
+      ],
+      "name": "An Evening of Food, Folklore and Fairies",
+      "url": "https://irishfolktours.com/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2542657,
+        "latitude": 53.3508903
+      },
+      "telephone": "+35312188555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Activity Operator",
+        "Traditionally Irish",
+        "Venue",
+        "Music",
+        "Pubs and Bar",
+        "Food Shops",
+        "Shopping"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub",
+        "Restaurant"
+      ],
+      "name": "Sailor’s Bar & Restaurant",
+      "url": "https://www.facebook.com/goexplorehostel",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.949858,
+        "latitude": 53.803768
+      },
+      "telephone": "+3539826307",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clare Island",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar",
+        "Seafood",
+        "Vegetarian"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub",
+        "Restaurant"
+      ],
+      "name": "Wrights Findlater Howth",
+      "url": "https://www.facebook.com/WrightsFindlaterHowth",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.067881,
+        "latitude": 53.38766
+      },
+      "telephone": "+353(0)18324488",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Howth",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar",
+        "Seafood"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub",
+        "Restaurant"
+      ],
+      "name": "56 Central Restaurant",
+      "url": "http://www.56central.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.052348,
+        "latitude": 53.272925
+      },
+      "telephone": "+35391569511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Galway City",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Wild Atlantic Way",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "GolfCourse"
+      ],
+      "name": "Blessington Lakes Golf Club",
+      "url": "http://www.blessingtonlakesgolfclub.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.540298,
+        "latitude": 53.124422
+      },
+      "telephone": "+35345867146",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Blessington",
+        "addressRegion": "Wicklow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Golf Course",
+        "Ireland's Ancient East",
+        "Activity",
+        "Golf",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub"
+      ],
+      "name": "Bar Rua",
+      "url": "http://www.instagram.com/barruadublin/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.2624311,
+        "latitude": 53.3410567
+      },
+      "telephone": "+353(0)14414425",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Visit Dublin",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar"
+      ]
+    }
+  ]
+}
