@@ -1,5 +1,5 @@
 {
-  "count": "6443",
+  "count": "6447",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -447,44 +447,6 @@
         "Activity",
         "Shopping",
         "Shopping Centres and Department Store",
-        "Food Shops"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "Store",
-        "TouristAttraction",
-        "ArtGallery",
-        "ShoppingCenter"
-      ],
-      "name": "Arran Street East",
-      "url": "https://arranstreeteast.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.27049220142999,
-        "latitude": 53.3483066832134
-      },
-      "telephone": "+353838146672",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Dublin City",
-        "addressRegion": "Dublin",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Craft",
-        "Shopping",
-        "Learning",
-        "Art Gallery",
-        "Attraction",
         "Food Shops"
       ]
     },
@@ -1770,6 +1732,38 @@
         "Shopping",
         "Shopping Centres and Department Store",
         "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness"
+      ],
+      "name": "Dublin Mini Coaches & Chauffeur Drive",
+      "url": "http://www.facebook.com/dublinmini.coaches/timeline",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.348238,
+        "latitude": 53.330439
+      },
+      "telephone": "+353(0)1861780049",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Transport",
+        "Coach",
+        "Road"
       ]
     }
   ]
