@@ -1,5 +1,5 @@
 {
-  "count": "6444",
+  "count": "6452",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -1164,40 +1164,6 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "SportsActivityLocation",
-        "TravelAgency"
-      ],
-      "name": "The Bike Shed",
-      "url": "http://www.thebikeshed.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -8.504709,
-        "latitude": 51.8887628
-      },
-      "telephone": "+353866028228",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Cork City",
-        "addressRegion": "Cork",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Cycling",
-        "Activity Operator",
-        "Bike Rental",
-        "Tour"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
         "FoodEstablishment",
         "BarOrPub"
       ],
@@ -1758,6 +1724,38 @@
         "Venue",
         "Music",
         "Sports Venues"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "Earl of Desmond Hotel, Bar & Restaurant",
+      "url": "https://www.earlofdesmond.com/dining",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.636088,
+        "latitude": 52.2556106
+      },
+      "telephone": "+353667121299",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tralee",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Food and Drink",
+        "Restaurant"
       ]
     }
   ]
