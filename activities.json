@@ -1,5 +1,5 @@
 {
-  "count": "6471",
+  "count": "6472",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -828,47 +828,6 @@
         "Museums and Attraction",
         "Cafe",
         "Food and Drink",
-        "Tour"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "SportsActivityLocation",
-        "TouristAttraction",
-        "LandmarksOrHistoricalBuildings",
-        "Museum"
-      ],
-      "name": "Fethard Horse Country Experience",
-      "url": "http://fhcexperience.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -7.6951868,
-        "latitude": 52.4659793
-      },
-      "telephone": "+353526130439",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Fethard",
-        "addressRegion": "Tipperary",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Horse Riding",
-        "Equestrian",
-        "Attraction",
-        "Historic Houses and Castle",
-        "Museums and Attraction",
-        "Venue",
-        "Sports Venues",
         "Tour"
       ]
     },
@@ -1745,6 +1704,46 @@
         "Shopping",
         "Shopping Centres and Department Store",
         "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Killarney Guided Tours",
+      "url": "https://killarneyguidedtours.biz/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.5044265,
+        "latitude": 52.0599353
+      },
+      "telephone": "+353872309567",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killarney",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Transport",
+        "Photography",
+        "Learning",
+        "Walking",
+        "Activity Operator",
+        "Tracing Your Ancestors",
+        "Tour",
+        "Coach",
+        "Road"
       ]
     }
   ]
