@@ -1,5 +1,5 @@
 {
-  "count": "6466",
+  "count": "6462",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -957,41 +957,6 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "Store",
-        "TouristAttraction",
-        "ArtGallery"
-      ],
-      "name": "Mary Crowley's Artist Studio and Gallery",
-      "url": "https://www.facebook.com/MaryCrowleyArtist",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -7.49599965152231,
-        "latitude": 55.2695837391063
-      },
-      "telephone": "+353862664554",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Clonmany",
-        "addressRegion": "Donegal",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Craft",
-        "Shopping",
-        "Art Gallery",
-        "Attraction"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
         "BarOrPub",
         "FoodEstablishment",
         "Restaurant"
@@ -1745,6 +1710,37 @@
         "Tour",
         "Coach",
         "Road"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Killarney Tour",
+      "url": "http://www.killarneytour.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.50838002550719,
+        "latitude": 52.0576796917615
+      },
+      "telephone": "+353(0)872508122",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killarney",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Activity Operator",
+        "Tour"
       ]
     }
   ]
