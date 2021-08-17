@@ -1059,39 +1059,6 @@
       "@type": [
         "LocalBusiness",
         "FoodEstablishment",
-        "BarOrPub"
-      ],
-      "name": "McGettigan's Limerick",
-      "url": "http://www.mcgettigans.com",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -8.6327595,
-        "latitude": 52.6608157
-      },
-      "telephone": "+35361207000",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Limerick City",
-        "addressRegion": "Limerick",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
         "BarOrPub",
         "Restaurant"
       ],
@@ -1741,6 +1708,36 @@
         "Activity",
         "Activity Operator",
         "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Killorglin Rowing Club",
+      "url": "http://killorglinrowing.wordpress.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.7822484,
+        "latitude": 52.1074742
+      },
+      "telephone": "+353872930461",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killorglin",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Activity Operator"
       ]
     }
   ]
