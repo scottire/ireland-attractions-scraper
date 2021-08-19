@@ -1,5 +1,5 @@
 {
-  "count": "6458",
+  "count": "6460",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -468,40 +468,6 @@
         "Activity",
         "Attraction",
         "Beach"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "TouristAttraction"
-      ],
-      "name": "Dhu Varren Garden",
-      "url": "http://www.dhuvarrengarden.com",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.696926,
-        "latitude": 52.1342514
-      },
-      "telephone": "+353876104492",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Milltown",
-        "addressRegion": "Kerry",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Gardening",
-        "Nature and Wildlife",
-        "Gardens",
-        "Attraction",
-        "Garden"
       ]
     },
     {
@@ -1744,6 +1710,36 @@
         "Activity",
         "Activity Operator",
         "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Killorglin Rowing Club",
+      "url": "http://killorglinrowing.wordpress.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.7822484,
+        "latitude": 52.1074742
+      },
+      "telephone": "+353872930461",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killorglin",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Activity Operator"
       ]
     }
   ]
