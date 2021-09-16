@@ -1,5 +1,5 @@
 {
-  "count": "6435",
+  "count": "6429",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -71,38 +71,6 @@
         "Attraction",
         "Churches",
         "Abbeys and Monastery"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "TravelAgency"
-      ],
-      "name": "Sliabh Liag Boat Tours",
-      "url": "http://www.sliabhleagueboattrips.com/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -8.632111,
-        "latitude": 54.623419
-      },
-      "telephone": "+353(0)876284688",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Teelin",
-        "addressRegion": "Donegal",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Activity Operator",
-        "Boat",
-        "Tour"
       ]
     },
     {
@@ -402,40 +370,6 @@
         "Activity",
         "Food and Drink",
         "Restaurant"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "Museum"
-      ],
-      "name": "Derryglad Folk & Heritage Museum",
-      "url": "http://www.derrygladfolkmuseum.com",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -8.0799466,
-        "latitude": 53.4656692
-      },
-      "telephone": "+353906488192",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Athlone",
-        "addressRegion": "Roscommon",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Ireland's Hidden Hearthlands",
-        "Activity",
-        "Photography",
-        "Learning",
-        "Attraction",
-        "Museums and Attraction"
       ]
     },
     {
@@ -1742,6 +1676,72 @@
         "Abbeys and Monastery",
         "Ruins",
         "Historic Houses and Castle"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Cappanalea Outdoor Education Centre",
+      "url": "https://www.cappanalea.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.853169,
+        "latitude": 52.046932
+      },
+      "telephone": "+353669769244",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Killorglin",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Climbing",
+        "Activity Operator",
+        "Kayaking",
+        "Walking",
+        "Adventure Park"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness"
+      ],
+      "name": "CARHIRE.ie Cork",
+      "url": "https://www.CARHIRE.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.4692022,
+        "latitude": 51.8944845
+      },
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cork City",
+        "addressRegion": "Cork",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Transport",
+        "Coach",
+        "Road"
       ]
     }
   ]
