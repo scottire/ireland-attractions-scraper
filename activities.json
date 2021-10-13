@@ -1,5 +1,5 @@
 {
-  "count": "6412",
+  "count": "6411",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -1478,37 +1478,6 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "TravelAgency"
-      ],
-      "name": "Kilkenny Ghost Tours",
-      "url": "http://www.kilkennyghosttours.com",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -7.25144120370487,
-        "latitude": 52.6515765175236
-      },
-      "telephone": "+353(0)851706978",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Kilkenny City",
-        "addressRegion": "Kilkenny",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Activity Operator",
-        "Tour"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
         "FoodEstablishment",
         "ShoppingCenter"
       ],
@@ -1745,6 +1714,41 @@
         "Food and Drink",
         "Restaurant",
         "Seafood"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TouristAttraction",
+        "LandmarksOrHistoricalBuildings"
+      ],
+      "name": "Carlow Cathedral",
+      "url": "http://www.carlowcathedral.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.927924,
+        "latitude": 52.837005
+      },
+      "telephone": "+353599164087",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carlow Town",
+        "addressRegion": "Carlow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Church Abbey",
+        "Monastery",
+        "Attraction",
+        "Churches",
+        "Abbeys and Monastery"
       ]
     }
   ]
