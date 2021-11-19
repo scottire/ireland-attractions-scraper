@@ -1,5 +1,5 @@
 {
-  "count": "6400",
+  "count": "6399",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -310,280 +310,21 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub"
+        "SportsActivityLocation",
+        "TravelAgency"
       ],
-      "name": "The Beach Bar",
-      "url": "http://www.thebeachbarsligo.com",
+      "name": "Denny's Dublin Tours",
+      "url": "",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -8.7570135,
-        "latitude": 54.2693484
+        "longitude": -6.25908644287028,
+        "latitude": 53.3473752087649
       },
-      "telephone": "+3530719176465",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Templeboy",
-        "addressRegion": "Sligo",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "Store",
-        "FoodEstablishment",
-        "ShoppingCenter",
-        "Restaurant",
-        "CafeOrCoffeeShop"
-      ],
-      "name": "The Beehive Craft and Coffee Shop",
-      "url": "https://the-beehive-coffee-craft-shop.company.site/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -10.0854351,
-        "latitude": 53.9744606
-      },
-      "telephone": "+353868542009",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Achill Island - Acaill",
-        "addressRegion": "Mayo",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Craft",
-        "Shopping",
-        "Shopping Centres and Department Store",
-        "Artisan",
-        "Cafe",
-        "Local Produce",
-        "Seafood",
-        "Vegan",
-        "Vegetarian",
-        "Food Shops"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub"
-      ],
-      "name": "The Bleeding Horse",
-      "url": "http://bleedinghorse.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.264814,
-        "latitude": 53.333478
-      },
-      "telephone": "+353(0)14752705",
+      "telephone": "+353(0)831003427",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Dublin City",
         "addressRegion": "Dublin",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub",
-        "Restaurant"
-      ],
-      "name": "The Bloody Stream",
-      "url": "http://bloodystream.ie/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.074224,
-        "latitude": 53.388961
-      },
-      "telephone": "+353(0)18395076",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Howth",
-        "addressRegion": "Dublin",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar",
-        "Seafood"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "Restaurant",
-        "BarOrPub"
-      ],
-      "name": "The Carrigart",
-      "url": "https://www.facebook.com/The-Carrigart-236121389791437",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -7.7930486,
-        "latitude": 55.1776843
-      },
-      "telephone": "+353749155114",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Carrigart",
-        "addressRegion": "Donegal",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Local Produce",
-        "Pubs and Bar",
-        "Seafood",
-        "Vegan",
-        "Vegetarian"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "Restaurant"
-      ],
-      "name": "The Castle Inn",
-      "url": "https://www.facebook.com/castle.inn.7",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.0646624,
-        "latitude": 53.0714587
-      },
-      "telephone": "+35312819232",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Newcastle",
-        "addressRegion": "Wicklow",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Restaurant"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "HealthClub",
-        "SportsActivityLocation"
-      ],
-      "name": "The Coast Club Leisure Centre",
-      "url": "https://www.connemaracoasthotel.ie/leisure/coast-club-leisure-centre",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.200456,
-        "latitude": 53.248611
-      },
-      "telephone": "+353(0)91503904",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Spiddal",
-        "addressRegion": "Galway",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Pampering",
-        "Health Farm",
-        "Spa and Wellness",
-        "Specialised Retreat",
-        "Swimming",
-        "Swimming Pools and Water Park",
-        "Venue",
-        "Fitness and Leisure",
-        "Activity Operator"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "SportsActivityLocation",
-        "TravelAgency"
-      ],
-      "name": "The Delgany Heritage Trail",
-      "url": "http://www.delganyheritagevillage.com/index.html",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.08518754144048,
-        "latitude": 53.1384206249152
-      },
-      "telephone": "+353(0)12876689",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Delgany",
-        "addressRegion": "Wicklow",
         "addressCountry": "Republic of Ireland"
       },
       "image": {
@@ -605,18 +346,18 @@
         "FoodEstablishment",
         "Restaurant"
       ],
-      "name": "The Dog House Blues Tea Room",
-      "url": "https://www.facebook.com/TheDogHouseBluesTeaRooms#!/TheDogHouseBluesTeaRooms",
+      "name": "Derg Room Restaurant",
+      "url": "https://www.lakesidehotel.ie/dining/the-derg-room-restaurant",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -6.07850448697877,
-        "latitude": 53.388933979983
+        "longitude": -8.444048,
+        "latitude": 52.811047
       },
-      "telephone": "+353(0)18395188",
+      "telephone": "+35361376122",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Howth",
-        "addressRegion": "Dublin",
+        "addressLocality": "Ballina",
+        "addressRegion": "Clare",
         "addressCountry": "Republic of Ireland"
       },
       "image": {
@@ -625,6 +366,7 @@
         "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
       },
       "tags": [
+        "Ireland's Hidden Hearthlands",
         "Activity",
         "Food and Drink",
         "Restaurant"
@@ -635,20 +377,20 @@
       "@type": [
         "LocalBusiness",
         "TouristAttraction",
-        "Landform"
+        "Beach"
       ],
-      "name": "The Donegal Gaeltacht",
+      "name": "Derrymore Beach",
       "url": "",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -8.1107141,
-        "latitude": 54.654487
+        "longitude": -9.84292340148678,
+        "latitude": 52.2406842667498
       },
-      "telephone": "",
+      "telephone": "+353(0)667121288",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Glencolmcille",
-        "addressRegion": "Donegal",
+        "addressLocality": "Derrymore",
+        "addressRegion": "Kerry",
         "addressCountry": "Republic of Ireland"
       },
       "image": {
@@ -658,32 +400,30 @@
       },
       "tags": [
         "Activity",
-        "Natural Landscape",
-        "Attraction"
+        "Attraction",
+        "Beach"
       ]
     },
     {
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "HealthClub",
         "FoodEstablishment",
-        "Restaurant",
-        "Hotel",
-        "BarOrPub"
+        "TravelAgency",
+        "Restaurant"
       ],
-      "name": "ESPA at the g Hotel",
-      "url": "https://www.theghotel.ie/spa",
+      "name": "Dingle Cookery School",
+      "url": "https://www.facebook.com/pages/Dingle-Cookery-School/550799285065901",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -9.0321391,
-        "latitude": 53.2816715
+        "longitude": -10.2810225,
+        "latitude": 52.1412601
       },
-      "telephone": "+35391865200",
+      "telephone": "+353868723521",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Galway City",
-        "addressRegion": "Galway",
+        "addressLocality": "Dingle",
+        "addressRegion": "Kerry",
         "addressCountry": "Republic of Ireland"
       },
       "image": {
@@ -693,14 +433,79 @@
       },
       "tags": [
         "Activity",
-        "Pampering",
-        "Health Farm",
-        "Spa and Wellness",
-        "Specialised Retreat",
-        "Spa",
+        "Food and Drink",
+        "Cooking",
+        "Cookery",
+        "Learning",
+        "Restaurant",
+        "Activity Operator",
+        "Local Produce"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "ShoppingCenter"
+      ],
+      "name": "Dingle Farm Produce and Craft Market",
+      "url": "https://www.facebook.com/dinglefarmersmarket",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.270384,
+        "latitude": 52.139924
+      },
+      "telephone": "+353669151474",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dingle",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
         "Food and Drink",
         "Restaurant",
-        "Pubs and Bar",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "TravelAgency"
+      ],
+      "name": "Dingle Sailing Centre",
+      "url": "http://www.dinglesailingclub.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.2783279,
+        "latitude": 52.1385614
+      },
+      "telephone": "+353669152603",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dingle",
+        "addressRegion": "Kerry",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Sailing",
         "Activity Operator"
       ]
     },
@@ -709,19 +514,56 @@
       "@type": [
         "LocalBusiness",
         "FoodEstablishment",
-        "Restaurant"
+        "CafeOrCoffeeShop"
       ],
-      "name": "The Garden Room",
-      "url": "http://www.facebook.com/merrionhoteldublin",
+      "name": "Dodi Café",
+      "url": "https://www.facebook.com/dodicafe",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -6.25294351367393,
-        "latitude": 53.3385640230111
+        "longitude": -9.3460276,
+        "latitude": 52.9322678
       },
-      "telephone": "+353(0)16030600",
+      "telephone": "+353834353087",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Dublin City",
+        "addressLocality": "Lahinch",
+        "addressRegion": "Clare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Cafe"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "GolfCourse",
+        "FoodEstablishment",
+        "Restaurant",
+        "ShoppingCenter"
+      ],
+      "name": "Donabate Golf Club",
+      "url": "http://www.donabategolfclub.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.126744,
+        "latitude": 53.479945
+      },
+      "telephone": "+35318436346",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Donabate",
         "addressRegion": "Dublin",
         "addressCountry": "Republic of Ireland"
       },
@@ -731,9 +573,10 @@
         "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
       },
       "tags": [
+        "Golf Course",
         "Activity",
-        "Food and Drink",
-        "Restaurant"
+        "Golf",
+        "Activity Operator"
       ]
     },
     {
@@ -865,85 +708,18 @@
         "FoodEstablishment",
         "Restaurant"
       ],
-      "name": "Marcel’s",
-      "url": "http://www.marcels.ie/",
+      "name": "Rolf's Country House Restaurant & Wine Bar",
+      "url": "https://rolfscountryhouse.com/restaurant/",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -6.25454423131748,
-        "latitude": 53.3383115772485
+        "longitude": -9.3684289,
+        "latitude": 51.4792193
       },
-      "telephone": "+353(0)1602367",
+      "telephone": "+3532820289",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Dublin City",
-        "addressRegion": "Dublin",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Restaurant"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "BarOrPub",
-        "FoodEstablishment",
-        "Restaurant"
-      ],
-      "name": "Massimo",
-      "url": "https://massimogalway.com/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.0598829,
-        "latitude": 53.2699969
-      },
-      "telephone": "+35391582239",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Galway City",
-        "addressRegion": "Galway",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "Restaurant"
-      ],
-      "name": "McDonagh's Seafood House",
-      "url": "http://www.mcdonaghs.net",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.0545095,
-        "latitude": 53.2709622
-      },
-      "telephone": "+35391565001",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Galway City",
-        "addressRegion": "Galway",
+        "addressLocality": "Baltimore",
+        "addressRegion": "Cork",
         "addressCountry": "Republic of Ireland"
       },
       "image": {
@@ -962,119 +738,20 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub"
+        "SportsActivityLocation",
+        "GolfCourse"
       ],
-      "name": "McGettigan's Letterkenny",
-      "url": "https://mcgettigans.com/letterkenny-ireland",
+      "name": "Ross Golf Course",
+      "url": "https://www.facebook.com/RossGolfCourse/",
       "geo": {
         "@type": "GeoCoordinates",
-        "longitude": -7.73671587256198,
-        "latitude": 54.9511565041299
+        "longitude": -9.514396,
+        "latitude": 52.048793
       },
-      "telephone": "+353749124369",
+      "telephone": "+353646631125",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Letterkenny",
-        "addressRegion": "Donegal",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub",
-        "Restaurant"
-      ],
-      "name": "McGrattans Cafe Bar",
-      "url": "http://www.mcgrattans.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -6.25125,
-        "latitude": 53.338537
-      },
-      "telephone": "+353(0)16618808",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Dublin City",
-        "addressRegion": "Dublin",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "BarOrPub"
-      ],
-      "name": "McGrory’s Hotel Bar",
-      "url": "https://www.mcgrorys.ie",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -7.1655699,
-        "latitude": 55.2867208
-      },
-      "telephone": "+353749379104",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Culdaff",
-        "addressRegion": "Donegal",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Food and Drink",
-        "Pubs and Bar"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "FoodEstablishment",
-        "BarOrPub"
-      ],
-      "name": "McMunn's of Ballybunion",
-      "url": "http://www.mcmunns.com",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.6756264,
-        "latitude": 52.5110751
-      },
-      "telephone": "+3536828845",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Ballybunion",
+        "addressLocality": "Killarney",
         "addressRegion": "Kerry",
         "addressCountry": "Republic of Ireland"
       },
@@ -1084,10 +761,265 @@
         "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
       },
       "tags": [
+        "Golf Course",
+        "Activity",
+        "Golf",
+        "Activity Operator"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "name": "Rural Pub Tours",
+      "url": "http://ruraltours.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.26089277657161,
+        "latitude": 53.343616040715
+      },
+      "telephone": "+353(0)14958111",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Activity Operator",
+        "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub"
+      ],
+      "name": "The Beach Bar",
+      "url": "http://www.thebeachbarsligo.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.7570135,
+        "latitude": 54.2693484
+      },
+      "telephone": "+3530719176465",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Templeboy",
+        "addressRegion": "Sligo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
         "Activity",
         "Food and Drink",
         "Restaurant",
         "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "Store",
+        "FoodEstablishment",
+        "ShoppingCenter",
+        "Restaurant",
+        "CafeOrCoffeeShop"
+      ],
+      "name": "The Beehive Craft and Coffee Shop",
+      "url": "https://the-beehive-coffee-craft-shop.company.site/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -10.0854351,
+        "latitude": 53.9744606
+      },
+      "telephone": "+353868542009",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Achill Island - Acaill",
+        "addressRegion": "Mayo",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Craft",
+        "Shopping",
+        "Shopping Centres and Department Store",
+        "Artisan",
+        "Cafe",
+        "Local Produce",
+        "Seafood",
+        "Vegan",
+        "Vegetarian",
+        "Food Shops"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub"
+      ],
+      "name": "The Bleeding Horse",
+      "url": "http://bleedinghorse.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.264814,
+        "latitude": 53.333478
+      },
+      "telephone": "+353(0)14752705",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant",
+        "BarOrPub"
+      ],
+      "name": "The Carrigart",
+      "url": "https://www.facebook.com/The-Carrigart-236121389791437",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -7.7930486,
+        "latitude": 55.1776843
+      },
+      "telephone": "+353749155114",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carrigart",
+        "addressRegion": "Donegal",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Covid Safety Charter",
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Local Produce",
+        "Pubs and Bar",
+        "Seafood",
+        "Vegan",
+        "Vegetarian"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "The Castle Inn",
+      "url": "https://www.facebook.com/castle.inn.7",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.0646624,
+        "latitude": 53.0714587
+      },
+      "telephone": "+35312819232",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Newcastle",
+        "addressRegion": "Wicklow",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Food and Drink",
+        "Restaurant"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "HealthClub",
+        "SportsActivityLocation"
+      ],
+      "name": "The Coast Club Leisure Centre",
+      "url": "https://www.connemaracoasthotel.ie/leisure/coast-club-leisure-centre",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -9.200456,
+        "latitude": 53.248611
+      },
+      "telephone": "+353(0)91503904",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Spiddal",
+        "addressRegion": "Galway",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Pampering",
+        "Health Farm",
+        "Spa and Wellness",
+        "Specialised Retreat",
+        "Swimming",
+        "Swimming Pools and Water Park",
+        "Venue",
+        "Fitness and Leisure",
+        "Activity Operator"
       ]
     },
     {
@@ -1749,6 +1681,72 @@
         "Attraction",
         "Churches",
         "Abbeys and Monastery"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "SportsActivityLocation",
+        "GolfCourse"
+      ],
+      "name": "Carrickmines Golf Club",
+      "url": "https://carrickminesgolfclub.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.1711034,
+        "latitude": 53.247791
+      },
+      "telephone": "+35312955972",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Carrickmines",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Golf Course",
+        "Activity",
+        "Golf"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "BarOrPub",
+        "Restaurant"
+      ],
+      "name": "The Queens Dalkey",
+      "url": "http://www.thequeens.ie",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.105047,
+        "latitude": 53.277846
+      },
+      "telephone": "+353(0)12854569",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dalkey",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Food and Drink",
+        "Restaurant",
+        "Pubs and Bar"
       ]
     }
   ]
