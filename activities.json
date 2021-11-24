@@ -1,5 +1,5 @@
 {
-  "count": "6397",
+  "count": "6395",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -1446,46 +1446,6 @@
       "@context": "http://schema.org",
       "@type": [
         "LocalBusiness",
-        "SportsActivityLocation",
-        "TravelAgency"
-      ],
-      "name": "Killarney Guided Tours",
-      "url": "https://killarneyguidedtours.biz/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.5044265,
-        "latitude": 52.0599353
-      },
-      "telephone": "+353872309567",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Killarney",
-        "addressRegion": "Kerry",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Covid Safety Charter",
-        "Activity",
-        "Transport",
-        "Photography",
-        "Learning",
-        "Walking",
-        "Activity Operator",
-        "Tracing Your Ancestors",
-        "Tour",
-        "Coach",
-        "Road"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
         "TravelAgency"
       ],
       "name": "Killarney Tour",
@@ -1747,6 +1707,38 @@
         "Food and Drink",
         "Restaurant",
         "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "The River Room Restaurant at The K Club",
+      "url": "https://www.kclub.ie/restaurant/river-room-restaurant",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.6252547,
+        "latitude": 53.3065509
+      },
+      "telephone": "+35316017200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Straffan",
+        "addressRegion": "Kildare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Food and Drink",
+        "Restaurant"
       ]
     }
   ]
