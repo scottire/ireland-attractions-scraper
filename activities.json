@@ -1,5 +1,5 @@
 {
-  "count": "6416",
+  "count": "6413",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -624,48 +624,6 @@
         "Activity",
         "Natural Landscape",
         "Attraction"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "HealthClub",
-        "FoodEstablishment",
-        "Restaurant",
-        "Hotel",
-        "BarOrPub"
-      ],
-      "name": "ESPA at the g Hotel",
-      "url": "https://www.theghotel.ie/spa",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.0321391,
-        "latitude": 53.2816715
-      },
-      "telephone": "+35391865200",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Galway City",
-        "addressRegion": "Galway",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Activity",
-        "Pampering",
-        "Health Farm",
-        "Spa and Wellness",
-        "Specialised Retreat",
-        "Spa",
-        "Food and Drink",
-        "Restaurant",
-        "Pubs and Bar",
-        "Activity Operator"
       ]
     },
     {
@@ -1738,6 +1696,39 @@
         "Walking",
         "Activity Operator",
         "Tour"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "Derg Room Restaurant",
+      "url": "https://www.lakesidehotel.ie/dining/the-derg-room-restaurant",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -8.444048,
+        "latitude": 52.811047
+      },
+      "telephone": "+35361376122",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ballina",
+        "addressRegion": "Clare",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Ireland's Hidden Hearthlands",
+        "Activity",
+        "Food and Drink",
+        "Restaurant"
       ]
     }
   ]
