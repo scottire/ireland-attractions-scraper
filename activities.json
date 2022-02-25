@@ -1,5 +1,5 @@
 {
-  "count": "6454",
+  "count": "6456",
   "nextPage": "https://failteireland.azure-api.net/opendata-api/v1/activities?subscription-key=&search=*&$skip=50",
   "results": [
     {
@@ -699,39 +699,6 @@
         "Activity",
         "Food and Drink",
         "Restaurant"
-      ]
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": [
-        "LocalBusiness",
-        "SportsActivityLocation",
-        "GolfCourse"
-      ],
-      "name": "Ross Golf Course",
-      "url": "https://www.facebook.com/RossGolfCourse/",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "longitude": -9.514396,
-        "latitude": 52.048793
-      },
-      "telephone": "+353646631125",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Killarney",
-        "addressRegion": "Kerry",
-        "addressCountry": "Republic of Ireland"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "caption": "Fáilte Ireland Logo",
-        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
-      },
-      "tags": [
-        "Golf Course",
-        "Activity",
-        "Golf",
-        "Activity Operator"
       ]
     },
     {
@@ -1740,6 +1707,38 @@
         "Food and Drink",
         "Restaurant",
         "Pubs and Bar"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": [
+        "LocalBusiness",
+        "FoodEstablishment",
+        "Restaurant"
+      ],
+      "name": "Marcel’s",
+      "url": "http://www.marcels.ie/",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "longitude": -6.25454423131748,
+        "latitude": 53.3383115772485
+      },
+      "telephone": "+353(0)1602367",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dublin City",
+        "addressRegion": "Dublin",
+        "addressCountry": "Republic of Ireland"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "caption": "Fáilte Ireland Logo",
+        "url": "https://failtecdn.azureedge.net/failteireland/F%C3%A1ilte_Ireland_Logo_OpenDataAPI.jpg"
+      },
+      "tags": [
+        "Activity",
+        "Food and Drink",
+        "Restaurant"
       ]
     }
   ]
